@@ -4,6 +4,18 @@ public class FirstLastOccurrence {
 
 
 
+
+
+
+    }
+
+//    static int[] FirstLast(int[] arr, int target) {
+//
+//    }
+
+    static int[] twoPointer(int[] arr, int target) {
+
+
     }
 
 }
