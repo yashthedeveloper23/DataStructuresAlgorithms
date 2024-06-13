@@ -1,8 +1,8 @@
-this is to store everything i learn about Data Structures and Algorithms
+# this is to store everything i learn about Data Structures and Algorithms
 
 
 
-the plan is 
+# the plan is 
 
 1. Arrays and Strings
 2. Searching and Sorting
