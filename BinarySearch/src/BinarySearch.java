@@ -7,7 +7,6 @@ public class BinarySearch {
         int target = 3;
 
         int answer = binary(array, target);
-
         System.out.println(answer);
         System.out.println(array.length);
 
